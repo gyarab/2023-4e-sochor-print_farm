@@ -1,2 +1,2 @@
-Print farm ročníkový projekt
-- dokumentace upravena
+Print farm 
+- Marek Sochor 
